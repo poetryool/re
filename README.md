@@ -1,5 +1,3 @@
-# re
-
 ## paper
  - Peng Y, Chen H, Lin C, et al. Uncertainty-Aware Explainable Recommendation with Large Language Models[C]. IJCNN 2024
 
